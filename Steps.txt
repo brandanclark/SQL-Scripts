@@ -1,0 +1,5 @@
+Twin Scroll Marketing Steps
+
+1. Run Drop and Create tables script
+2. Run SQL Import
+3. Run scripts in sequential order
